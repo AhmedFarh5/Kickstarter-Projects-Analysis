@@ -1,4 +1,5 @@
 #  Kickstarter Projects Analysis — Power BI
+<img width="1314" height="750" alt="PNG" src="https://github.com/user-attachments/assets/93263f01-8033-4119-bb79-8a4416312557" />
 
 ##  Data Source
 
